@@ -1,0 +1,6 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore the YOLO model file
+yolov5x.pt
+ignored-files/yolov5x.pt
